@@ -2,7 +2,8 @@
 
 :root {
   --bg: #2f3849;
-  --fg: #ffffff;
+
+  --fg: #c28080;
   --secondaryFg: #b3b3b3;
   --containerBg: #272727;
   --searchBg: var(--containerBg);
