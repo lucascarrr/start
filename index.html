@@ -20,13 +20,8 @@
     </div>
     <div class="container">
       <div id="clock"></div>
-      <div class="weather-container">
-        <div class="row">
-          <div id="weather-description" class="inline"></div>
-          <div class="inline">-</div>
-          <div id="temp" class="inline"></div>
-        </div>
-      </div>
+  
+      
       <div id="bookmark-container"></div>
     </div>
 
@@ -55,30 +50,8 @@
           ":" +
           (sec < 10 ? "0" + sec : sec)
         );
-      }
-      // Handle Weather request
-      function getWeather() {
-        let xhr = new XMLHttpRequest();
-        // Request to open weather map
-        xhr.open(
-          "GET",
-          "http://api.openweathermap.org/data/2.5/weather?id=3369157&units=metric&appid=961d3abd1883a000d85d5523703ea85b"
-        );
-        xhr.onload = () => {
-          if (xhr.readyState === 4) {
-            if (xhr.status === 200) {
-              let json = JSON.parse(xhr.responseText);
-              document.getElementById("temp").innerHTML =
-                json.main.temp.toFixed(0) + " C";
-              document.getElementById("weather-description").innerHTML =
-                json.weather[0].description;
-            } else {
-              console.log("error msg: " + xhr.status);
-            }
-          }
-        };
-        xhr.send();
-      }
+      } 
+      
       // Handle writing out Bookmarks
       function setupBookmarks() {
         const bookmarkContainer = document.getElementById("bookmark-container");
@@ -101,7 +74,7 @@
 
       window.onload = () => {
         setupBookmarks();
-        getWeather();
+      
         // Set up the clock
         document.getElementById("clock").innerHTML = getTime();
         // Set clock interval to tick clock
