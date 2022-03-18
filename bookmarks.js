@@ -11,7 +11,7 @@ const bookmarks = [
   {
     title: "Media",
     links: [
-      { name: "Youtube", url: "https://youtube.com/subscriptions" },
+      { name: "Youtube", url: "https://youtube.com/feed/subscriptions" },
       { name: "DSTV", url: "https://now.dstv.com/livetv/sport"},
       { name: "Podcasts", url: "https://play.pocketcasts.com/podcasts"},
     
