@@ -98,7 +98,7 @@ for (let i = 0; i < dataThemeButtons.length; i++) {
                 setTheme({
                     'color-background': '#242B33',
                     'color-text-pri': '#EFFBFF',
-                    'color-text-acc': '#6EE2FF'
+                    'color-text-acc': '#ba9d5f'
                 });
                 return;
             
