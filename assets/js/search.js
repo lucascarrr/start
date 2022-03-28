@@ -94,7 +94,7 @@ function search(text) {
                     window.location = "https://www.youtube.com/results?search_query=" + subtext;
                     break;
                 case "g":
-                    window.location = "https://www.google.com/?q=" + subtext;
+                    window.location = "https://www.google.com/search?q=" + subtext;
                     break;
             }
         } else {
