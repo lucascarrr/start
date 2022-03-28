@@ -19,40 +19,6 @@
                 ]
               },
               {
-                "category": "Dev",
-                "links": [
-                  {
-                    "name": "Codepen",
-                    "url": "https://codepen.io/"
-                  },
-                  {
-                    "name": "Devdocs",
-                    "url": "https://devdocs.io"
-                  },
-                  {
-                    "name": "Devhints",
-                    "url": "https://devhints.io"
-                  }
-                ]
-              },
-              {
-                "category": "Lifestyle",
-                "links": [
-                  {
-                    "name": "Design Milk",
-                    "url": "https://design-milk.com/category/interior-design/"
-                  },
-                  {
-                    "name": "Dwell",
-                    "url": "https://www.dwell.com/"
-                  },
-                  {
-                    "name": "Freshome",
-                    "url": "https://www.mymove.com/freshome/"
-                  }
-                ]
-              },
-              {
                 "category": "Media",
                 "links": [
                   {
