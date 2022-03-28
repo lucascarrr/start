@@ -1,8 +1,12 @@
 {
             "bookmarks" : [
               {
-                "category": "Communicate",
+                "category": "Frequent",
                 "links": [
+                  {
+                    "name": "Vula", 
+                    "url": "https://vula.uct.ac.za/portal"
+                  },
                   {
                     "name": "Whatsapp",
                     "url": "https://web.whatsapp.com/"
@@ -48,18 +52,7 @@
                   }
                 ]
               },
-              {"catergory": "Tracking", 
-                "links": [
-                  {
-                    "name": "Flights",
-                    "url": "https://www.flightradar24.com/2.9,20.33/3"
-                  },
-                  {
-                    "name": "Ships", 
-                    "url": "https://www.marinetraffic.com/en/ais/home/centerx:-12.0/centery:25.0/zoom:4"
-                  }
-                ]
-              },
+
               {
                 "category": "Tech",
                 "links": [
