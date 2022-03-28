@@ -97,8 +97,8 @@ for (let i = 0; i < dataThemeButtons.length; i++) {
             case 'tron':
                 setTheme({
                     'color-background': '#242B33',
-                    'color-text-pri': '#EFFBFF',
-                    'color-text-acc': '#ba9d5f'
+                    'color-text-pri': '#f6b162be',
+                    'color-text-acc': '#f6b162be'
                 });
                 return;
             

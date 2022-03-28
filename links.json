@@ -4,53 +4,17 @@
                 "category": "Communicate",
                 "links": [
                   {
-                    "name": "Discord",
-                    "url": "https://discord.com"
+                    "name": "Whatsapp",
+                    "url": "https://web.whatsapp.com/"
                   },
                   {
-                    "name": "Gmail",
-                    "url": "http://gmail.com"
+                    "name": "Twitter",
+                    "url": "http://twitter.com"
                   },
                   {
                     "name": "Slack",
                     "url": "https://slack.com/signin",
                     "target": "_blank"
-                  }
-                ]
-              },
-              {
-                "category": "Cloud",
-                "links": [
-                  {
-                    "name": "Box",
-                    "url": "https://box.com",
-                    "target": "sui"
-                  },
-                  {
-                    "name": "Dropbox",
-                    "url": "https://dropbox.com",
-                    "target": "sui"
-                  },
-                  {
-                    "name": "Drive",
-                    "url": "https://drive.google.com"
-                  }
-                ]
-              },
-              {
-                "category": "Design",
-                "links": [
-                  {
-                    "name": "Awwwards",
-                    "url": "https://awwwards.com"
-                  },
-                  {
-                    "name": "Dribbble",
-                    "url": "https://dribbble.com"
-                  },
-                  {
-                    "name": "Muz.li",
-                    "url": "https://medium.muz.li/"
                   }
                 ]
               },
@@ -92,12 +56,8 @@
                 "category": "Media",
                 "links": [
                   {
-                    "name": "Spotify",
-                    "url": "http://browse.spotify.com"
-                  },
-                  {
-                    "name": "Trakt",
-                    "url": "http://trakt.tv"
+                    "name": "Pocketcasts",
+                    "url": "https://play.pocketcasts.com/podcasts"
                   },
                   {
                     "name": "YouTube",
