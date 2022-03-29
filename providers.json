@@ -2,7 +2,7 @@
     "providers" : [
         {"name":"Github","url":"https://github.com/search?q=","prefix":"/git"},
         {"name":"Youtube","url":"https://www.youtube.com/results?search_query=","prefix":"/yt"},
-        {"name":"Github","url":"https://rarbgtor.org/torrents.php?search=","prefix":"/rar"},
+        {"name":"Rarbg","url":"https://rarbgtor.org/torrents.php?search=","prefix":"/rar"},
         {"name":"Reddit","url":"https://www.reddit.com/search?q=","prefix":"/r"}
 
     ]

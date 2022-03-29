@@ -63,6 +63,9 @@ function search(text) {
                 case "yt":
                     window.location = "https://www.youtube.com/results?search_query=" + subtext;
                     break;
+                case "rar":
+                    window.location = "https://rarbgtor.org/torrents.php?search=" + subtext;
+                    break;
                 case "r":
                     window.location = "https://www.reddit.com/search?q=" + subtext;
                     break;
