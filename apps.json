@@ -1,6 +1,6 @@
 {
     "apps" : [
-        {"name":"Bazarr","url":"subs.example.com","icon":"message-video", "target": "_blank"},
+        {"name":"Bazarr","url":"subs.example.com","icon":"message-video", "target": "_blank"}
 
     ]
 }
