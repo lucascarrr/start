@@ -16,8 +16,8 @@
                     "url": "http://twitter.com"
                   },
                   {
-                    "name": "Slack",
-                    "url": "https://slack.com/signin",
+                    "name": "Github",
+                    "url": "https://github.com/lucascarrr?tab=repositories",
                     "target": "_blank"
                   }
                 ]
