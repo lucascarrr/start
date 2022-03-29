@@ -12,25 +12,29 @@
                     "url": "https://web.whatsapp.com/"
                   },
                   {
-                    "name": "Twitter",
-                    "url": "http://twitter.com"
-                  },
-                  {
                     "name": "Github",
                     "url": "https://github.com/lucascarrr?tab=repositories"
                   }
                 ]
               },
               {
-                "category": "Media",
+                "category": "Entertainment",
                 "links": [
                   {
                     "name": "Pocketcasts",
                     "url": "https://play.pocketcasts.com/podcasts"
                   },
                   {
+                    "name": "Twitter",
+                    "url": "http://twitter.com"
+                  },
+                  {
                     "name": "YouTube",
                     "url": "https://youtube.com/feed/subscriptions"
+                  },
+                  {
+                    "name": "Reddit",
+                    "url": "http://reddit.com"
                   }
                 ]
               },
@@ -44,10 +48,6 @@
                   {
                     "name": "Financial Times",
                     "url": "https://www.ft.com/"
-                  },
-                  {
-                    "name": "Reddit",
-                    "url": "http://reddit.com"
                   }
                 ]
               },
@@ -60,8 +60,8 @@
                     "url": "https://www.wired.com/"
                   },
                   {
-                    "name": "The Verge",
-                    "url": "https://theverge.com/"
+                    "name": "Citizen Lab",
+                    "url": "https://citizenlab.ca/"
                   },
                   {
                     "name": "MIT Technology Review",

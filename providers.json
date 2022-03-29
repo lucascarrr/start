@@ -1,7 +1,8 @@
 {
     "providers" : [
         {"name":"Github","url":"https://github.com/search?q=","prefix":"/git"},
-        {"name":"Github","url":"https://www.youtube.com/results?search_query=","prefix":"/yt"},
+        {"name":"Youtube","url":"https://www.youtube.com/results?search_query=","prefix":"/yt"},
+        {"name":"Github","url":"https://rarbgtor.org/torrents.php?searchq=","prefix":"/rar"},
         {"name":"Reddit","url":"https://www.reddit.com/search?q=","prefix":"/r"}
 
     ]
