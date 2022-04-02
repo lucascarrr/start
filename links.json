@@ -29,8 +29,12 @@
                     "url": "http://twitter.com"
                   },
                   {
-                    "name": "YouTube",
-                    "url": "https://youtube.com/feed/subscriptions"
+                     "name": "Netflix",
+                     "url": "https://www.netflix.com/browse"
+                  },     
+                  {
+                     "name": "YouTube",
+                     "url": "https://youtube.com/feed/subscriptions"
                   },
                   {
                     "name": "Reddit",
