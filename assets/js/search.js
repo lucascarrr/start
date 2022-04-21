@@ -94,7 +94,7 @@ function search(text) {
         else
             window.location = "https://" + text;
     } else {
-        window.location = sengine + text + ' -quora' + ' -pinterest' + ' -medium';
+        window.location = sengine + text + ' -quora ' + ' -pinterest';
     }
 }
 
