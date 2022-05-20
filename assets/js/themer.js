@@ -72,9 +72,9 @@ for (let i = 0; i < dataThemeButtons.length; i++) {
 
             case 'cloud':
                 setTheme({
-                    'color-background': '#f1f2f0',
-                    'color-text-pri': '#35342f',
-                    'color-text-acc': '#37bbe4'
+                    'color-background': '#3b4252',
+                    'color-text-pri': '#d8dee9',
+                    'color-text-acc': '#d8dee9'
                 });
                 return;
 
