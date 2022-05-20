@@ -7,6 +7,17 @@
                     "name": "Vula", 
                     "url": "https://vula.uct.ac.za/portal"
                   },
+
+                  {
+                    "name": "Calendar", 
+                    "url": "https://calendar.google.com/calendar/u/0/r?pli=1"
+                  },
+
+                  {
+                    "name": "Outlook", 
+                    "url": "https://outlook.office.com/mail/inbox/id/AAQkADcxMGM3NmQ5LWRkNjYtNDFkZC1iMGY5LWZjOGI2ZWJlMzQxOQAQAG5TaVxju7NFv9AS3CdIwo0%3D:"
+                  },
+                  
                   {
                     "name": "Whatsapp",
                     "url": "https://web.whatsapp.com/"
