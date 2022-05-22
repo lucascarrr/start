@@ -54,7 +54,7 @@ for (let i = 0; i < dataThemeButtons.length; i++) {
                 });
                 return;
 
-            case 'gruvbox':
+            case 'espresso':
                 setTheme({
                     'color-background': '#272727',
                     'color-text-pri': '#ebdbb2',
