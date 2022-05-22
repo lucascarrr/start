@@ -56,9 +56,9 @@ for (let i = 0; i < dataThemeButtons.length; i++) {
 
             case 'espresso':
                 setTheme({
-                    'color-background': '#272727',
-                    'color-text-pri': '#ebdbb2',
-                    'color-text-acc': '#a89984'
+                    'color-background': '#1a1a1a',
+                    'color-text-pri': '#FFFDEA',
+                    'color-text-acc': '#5c5c5c'
                 });
                 return;
 
